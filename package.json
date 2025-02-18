@@ -4,7 +4,14 @@
   "description": "Portfolio site for Sri Harsha",
   "repository": "https://github.com/devlexus-sriharsha",
   "author": "Sri Harsha",
-  "sideEffects": true,
+  "sideEffects": [
+  "@remix-run/react",
+  "isbot",
+  "@mdx-js/react",
+  "@aws-sdk/client-ses",
+  "lucide-react",
+  "three-stdlib"
+]
   "type": "module",
   "scripts": {
     "build": "remix vite:build",
