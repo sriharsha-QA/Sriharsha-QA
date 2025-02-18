@@ -4,7 +4,7 @@
   "description": "Portfolio site for Sri Harsha",
   "repository": "https://github.com/devlexus-sriharsha",
   "author": "Sri Harsha",
-  "sideEffects": false,
+  "sideEffects": true,
   "type": "module",
   "scripts": {
     "build": "remix vite:build",
