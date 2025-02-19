@@ -1,6 +1,6 @@
-import profileImgLarge from '~/assets/Harsha.jpg';
+import profileImgLarge from '~/assets/harsha-pic.jpeg';
 import profileImgPlaceholder from '~/assets/profile-placeholder.jpg';
-import profileImg from '~/assets/Harsha.jpg';
+import profileImg from '~/assets/harsha-pic.jpeg';
 import { Button } from '~/components/button';
 import { DecoderText } from '~/components/decoder-text';
 import { Divider } from '~/components/divider';
@@ -90,14 +90,14 @@ const ProfileText = ({ visible, titleId }) => (
           className={styles.iconImage}
           src={src}
           alt=""
-          style={{ width: '60px', height: '60px', display: 'inline-block' }}
+          style={{ width: '50px', height: '50px', display: 'inline-block' }}
         />
       ))}
     </div>
     <div style={{ textAlign: 'center', marginTop: '10px' }}>
       <Button secondary className={styles.button} data-visible={visible} href="/skills">
         <ChevronRight size={22} strokeWidth={3} style={{ marginRight: '8px' }} />
-        View All Skills
+        View Skills & Experience
       </Button>
     </div>
   </Fragment>

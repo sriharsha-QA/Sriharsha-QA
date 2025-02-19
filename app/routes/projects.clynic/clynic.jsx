@@ -37,12 +37,12 @@ import imageSprSchema2Dark from '~/assets/spr-schema-2-dark.png';
 import imageSprSchema2LightLarge from '~/assets/people-correcting-charts_23-2147669777.jpg';
 import imageSprSchema2LightPlaceholder from '~/assets/spr-schema-2-light-placeholder.png';
 import imageSprSchema2Light from '~/assets/spr-schema-2-light.png';
-import imageSprStoryboarderDarkLarge from '~/assets/customer-experience-creative-collage_23-2149371196.jpg';
-import imageSprStoryboarderDarkPlaceholder from '~/assets/spr-storyboarder-dark-placeholder.png';
-import imageSprStoryboarderDark from '~/assets/spr-storyboarder-dark.png';
-import imageSprStoryboarderLightLarge from '~/assets/bussiness.jpg';
-import imageSprStoryboarderLightPlaceholder from '~/assets/spr-storyboarder-light-placeholder.png';
-import imageSprStoryboarderLight from '~/assets/spr-storyboarder-light.png';
+import imageSprStoryboarderDarkLarge from '~/assets/user-impact2.jpg';
+import imageSprStoryboarderDarkPlaceholder from '~/assets/user-impact2.jpg';
+import imageSprStoryboarderDark from '~/assets/user-impact2.jpg';
+import imageSprStoryboarderLightLarge from '~/assets/user-impact2.jpg';
+import imageSprStoryboarderLightPlaceholder from '~/assets/user-impact2.jpg';
+import imageSprStoryboarderLight from '~/assets/user-impact2.jpg';
 import { Footer } from '~/components/footer';
 import { Image } from '~/components/image';
 import { Link } from '~/components/link';
@@ -238,12 +238,6 @@ export const SmartSparrow = () => {
                 data mismatches, ensuring accurate patient records.
                 <br />
                 <br />
-                📷{' '}
-                <strong>
-                  Add an illustration of API request/response testing in Postman
-                </strong>
-                <br />
-                <br />
                 🔹 <strong>Challenge 2:</strong> Telemedicine video calls{' '}
                 <strong>failed in low-network conditions</strong>, disrupting virtual
                 consultations.
@@ -252,9 +246,6 @@ export const SmartSparrow = () => {
                 Chrome DevTools and tested under simulated{' '}
                 <strong>low bandwidth conditions</strong>, optimizing the app’s
                 performance to handle weak signals efficiently.
-                <br />
-                <br />
-                📷 <strong>Add an illustration of network throttling tests</strong>
                 <br />
                 <br />
                 🔹 <strong>Challenge 3:</strong> High latency in{' '}
@@ -266,9 +257,6 @@ export const SmartSparrow = () => {
                 identify bottlenecks and optimize backend API response times, reducing
                 data sync latency by <strong>30%</strong>.<br />
                 <br />
-                📷 <strong>Add an illustration of API performance test results</strong>
-                <br />
-                <br />
                 🔹 <strong>Challenge 4:</strong> Inconsistent user experience across
                 different <strong>mobile devices</strong> and screen resolutions.
                 <br />
@@ -276,9 +264,6 @@ export const SmartSparrow = () => {
                 <strong>cross-browser and device compatibility testing</strong> using
                 BrowserStack, ensuring seamless UI/UX across iOS, Android, and web
                 platforms.
-                <br />
-                <br />
-                📷 <strong>Add an illustration of BrowserStack test execution</strong>
                 <br />
               </ProjectSectionText>
             </ProjectTextRow>
@@ -398,11 +383,6 @@ export const SmartSparrow = () => {
                     📊 <strong>New Relic, LogRocket</strong> – Enabled proactive
                     monitoring, detecting real-time performance issues.
                     <br />
-                    <br />
-                    📷{' '}
-                    <strong>
-                      Add an image showcasing tool icons (Playwright, Postman, Jira, etc.)
-                    </strong>
                     <br />
                   </ProjectSectionText>
                 </ProjectTextRow>

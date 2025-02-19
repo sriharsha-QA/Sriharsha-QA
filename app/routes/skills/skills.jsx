@@ -267,8 +267,7 @@ export const Skills = () => {
                 size="l"
                 style={{ margin: '10px 0' }}
               >
-                💻 <strong>Languages & Scripting:</strong> JavaScript, TypeScript, Java,
-                Python
+                💻 <strong>Languages & Scripting:</strong> JavaScript, TypeScript, Java
               </Text>
               <Text
                 as="li"
@@ -305,7 +304,7 @@ export const Skills = () => {
                 size="l"
                 style={{ margin: '10px 0' }}
               >
-                📊 <strong>Performance & Monitoring:</strong> K6, JMeter, New Relic
+                📊 <strong>Performance & Monitoring:</strong> JMeter, New Relic
               </Text>
               <Text
                 as="li"

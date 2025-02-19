@@ -1,10 +1,10 @@
-import sliceAnnotationLarge from '~/assets/slice-annotation-large.png';
+import sliceAnnotationLarge from '~/assets/key-achievements.jpg';
 import sliceAnnotationPlaceholder from '~/assets/slice-annotation-placeholder.png';
 import sliceAnnotation from '~/assets/slice-annotation.png';
 import sliceAppLarge from '~/assets/airotect.jpg';
 import sliceAppPlaceholder from '~/assets/slice-app-placeholder.jpg';
 import sliceApp from '~/assets/slice-app.jpg';
-import sliceBackgroundBarLarge from '~/assets/slice-background-bar-large.jpg';
+import sliceBackgroundBarLarge from '~/assets/impact2.jpg';
 import sliceBackgroundBarPlaceholder from '~/assets/slice-background-bar-placeholder.jpg';
 import sliceBackgroundBar from '~/assets/slice-background-bar.jpg';
 import sliceBackgroundLarge from '~/assets/bg-blog-header.jpg';
@@ -15,12 +15,12 @@ import videoSprMotionPlaceholder from '~/assets/spr-motion-placeholder.jpg';
 import videoSprMotion from '~/assets/testplanning.mp4';
 import sliceIrlPlaceholder from '~/assets/automation7.jpg';
 import sliceIrl from '~/assets/automation7.jpg';
-import sliceSidebarAnnotationsLarge from '~/assets/slice-sidebar-annotations-large.png';
-import sliceSidebarAnnotationsPlaceholder from '~/assets/slice-sidebar-annotations-placeholder.png';
-import sliceSidebarAnnotations from '~/assets/slice-sidebar-annotations.png';
-import sliceSidebarLayersLarge from '~/assets/slice-sidebar-layers-large.png';
-import sliceSidebarLayersPlaceholder from '~/assets/slice-sidebar-layers-placeholder.png';
-import sliceSidebarLayers from '~/assets/slice-sidebar-layers.png';
+import sliceSidebarAnnotationsLarge from '~/assets/software-testing-chart.jpg';
+import sliceSidebarAnnotationsPlaceholder from '~/assets/software-testing-chart.jpg';
+import sliceSidebarAnnotations from '~/assets/software-testing-chart.jpg';
+import sliceSidebarLayersLarge from '~/assets/software-testing-chart.jpg';
+import sliceSidebarLayersPlaceholder from '~/assets/software-testing-chart.jpg';
+import sliceSidebarLayers from '~/assets/software-testing-chart.jpg';
 import sliceSlidesLarge from '~/assets/PMP-API.png';
 import sliceSlidesPlaceholder from '~/assets/slice-slides-placeholder.jpg';
 import sliceSlides from '~/assets/PMP-API.png';
@@ -72,7 +72,7 @@ export const Slice = () => {
         <ProjectHeader
           title={title}
           description={description}
-          url="https://www.best.edu.au/s/q2yjjvl7?data=8%404!9%4020303!10%40-15087&version=1"
+          url="https://staging-app.airotect.com/"
           roles={roles}
         />
         <ProjectSection padding="top">

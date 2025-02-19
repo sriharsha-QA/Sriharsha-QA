@@ -12,15 +12,15 @@ import sliceBackgroundPlaceholder from '~/assets/slice-background-placeholder.jp
 import sliceBackground from '~/assets/slice-background.jpg';
 import sliceIrlPlaceholder from '~/assets/bug.jpg';
 import sliceIrl from '~/assets/slice-irl.jpg';
-import sliceSidebarAnnotationsLarge from '~/assets/slice-sidebar-annotations-large.png';
+import sliceSidebarAnnotationsLarge from '~/assets/software-testing-chart.jpg';
 import cicdpipeline from '~/assets/cicdpipeline.jpg';
 import documents from '~/assets/document-knowledge.jpg';
 import tools from '~/assets/toolspmp.jpg';
-import sliceSidebarAnnotationsPlaceholder from '~/assets/slice-sidebar-annotations-placeholder.png';
-import sliceSidebarAnnotations from '~/assets/slice-sidebar-annotations.png';
-import sliceSidebarLayersLarge from '~/assets/slice-sidebar-layers-large.png';
-import sliceSidebarLayersPlaceholder from '~/assets/slice-sidebar-layers-placeholder.png';
-import sliceSidebarLayers from '~/assets/slice-sidebar-layers.png';
+import sliceSidebarAnnotationsPlaceholder from '~/assets/software-testing-chart.jpg';
+import sliceSidebarAnnotations from '~/assets/software-testing-chart.jpg';
+import sliceSidebarLayersLarge from '~/assets/software-testing-chart.jpg';
+import sliceSidebarLayersPlaceholder from '~/assets/software-testing-chart.jpg';
+import sliceSidebarLayers from '~/assets/software-testing-chart.jpg';
 import sliceSlidesLarge from '~/assets/Issues-tracling.jpg';
 import sliceSlidesPlaceholder from '~/assets/slice-slides-placeholder.jpg';
 import sliceSlides from '~/assets/Issues-tracling.jpg';
@@ -72,7 +72,7 @@ export const Slice = () => {
         <ProjectHeader
           title={title}
           description={description}
-          url="https://www.best.edu.au/s/q2yjjvl7?data=8%404!9%4020303!10%40-15087&version=1"
+          url="https://www.atlassian.com/software/jira"
           roles={roles}
         />
         <ProjectSection padding="top">

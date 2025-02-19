@@ -1,4 +1,4 @@
-import sliceAnnotationLarge from '~/assets/slice-annotation-large.png';
+import sliceAnnotationLarge from '~/assets/responsibilities.jpg';
 import sliceAnnotationPlaceholder from '~/assets/slice-annotation-placeholder.png';
 import sliceAnnotation from '~/assets/slice-annotation.png';
 import sliceAppLarge from '~/assets/packshopmain.jpg';
@@ -14,12 +14,12 @@ import sliceIrlPlaceholder from '~/assets/slice-irl-placeholder.jpg';
 import sliceIrl from '~/assets/ci-cd.jpg';
 import Documentimage from '~/assets/documents.jpg';
 import tools from '~/assets/toolsused.jpg';
-import sliceSidebarAnnotationsLarge from '~/assets/responsibilities.jpg';
-import sliceSidebarAnnotationsPlaceholder from '~/assets/slice-sidebar-annotations-placeholder.png';
-import sliceSidebarAnnotations from '~/assets/responsibilities.jpg';
-import sliceSidebarLayersLarge from '~/assets/slice-sidebar-layers-large.png';
-import sliceSidebarLayersPlaceholder from '~/assets/slice-sidebar-layers-placeholder.png';
-import sliceSidebarLayers from '~/assets/slice-sidebar-layers.png';
+import sliceSidebarAnnotationsLarge from '~/assets/software-testing-chart.jpg';
+import sliceSidebarAnnotationsPlaceholder from '~/assets/software-testing-chart.jpg';
+import sliceSidebarAnnotations from '~/assets/software-testing-chart.jpg';
+import sliceSidebarLayersLarge from '~/assets/software-testing-chart.jpg';
+import sliceSidebarLayersPlaceholder from '~/assets/software-testing-chart.jpg';
+import sliceSidebarLayers from '~/assets/software-testing-chart.jpg';
 import sliceSlidesLarge from '~/assets/agile.jpg';
 import sliceSlidesPlaceholder from '~/assets/slice-slides-placeholder.jpg';
 import sliceSlides from '~/assets/slice-slides.jpg';
@@ -72,7 +72,7 @@ export const Slice = () => {
         <ProjectHeader
           title={title}
           description={description}
-          url="https://www.best.edu.au/s/q2yjjvl7?data=8%404!9%4020303!10%40-15087&version=1"
+          url="https://beta.maxtrace.io/#/"
           roles={roles}
         />
         <ProjectSection padding="top">
