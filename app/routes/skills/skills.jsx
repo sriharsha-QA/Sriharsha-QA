@@ -385,11 +385,11 @@ export const Skills = () => {
               >
                 🌐 <strong>LinkedIn:</strong>{' '}
                 <Link
-                  href="https://www.linkedin.com/in/your-linkedin-profile"
+                  href="https://www.linkedin.com/in/sri-harsha-donthireddy-a8b090247/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  your-linkedin-profile
+                  sri-harsha-donthireddy
                 </Link>
               </Text>
               <Text
@@ -401,7 +401,7 @@ export const Skills = () => {
               >
                 📄 <strong>Download Resume:</strong>{' '}
                 <Link
-                  href="/path/to/resume.pdf"
+                  href="/app/assets/Sriharsha.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
