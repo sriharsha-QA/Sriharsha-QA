@@ -15,8 +15,24 @@ export default defineConfig({
   assetsInclude: ['**/*.glb', '**/*.hdr', '**/*.glsl'],
   build: {
     assetsInlineLimit: 1024,
+    rollupOptions: {
+      treeshake: {
+        // Force Rollup to treat these modules as having side effects
+        moduleSideEffects: id => {
+          const preservedModules = [
+            '@remix-run/react',
+            'isbot',
+            '@mdx-js/react',
+            '@aws-sdk/client-ses',
+            'lucide-react',
+            'three-stdlib',
+          ];
+          return preservedModules.some(moduleName => id.includes(moduleName));
+        },
+      },
+    },
     commonjsOptions: {
-      // Prevents essential imports from being dropped
+      // Ensures that essential imports inside try/catch blocks are not ignored
       ignoreTryCatch: false,
     },
   },
