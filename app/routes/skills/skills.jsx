@@ -414,9 +414,11 @@ export const Skills = () => {
             <Text className={styles.description} data-status={status} size="l" as="p">
               I’m dedicated to <strong>solving complex testing challenges</strong> and
               making QA a <strong>key differentiator</strong> for product success.
-              <strong>Feel free to explore my GitHub repositories</strong> or reach out on
-              LinkedIn to discuss how I can contribute to your team’s goals! or you can
-              directly <Link href="/contact">message me</Link>.
+              <strong>
+                Feel free to explore my GitHub repositories, download my resume,
+              </strong>{' '}
+              or reach out on LinkedIn to discuss how I can contribute to your team’s
+              goals! or you can <Link href="/contact">message me directly!</Link>.
             </Text>
 
             <Transition

@@ -103,14 +103,14 @@ export const Slice = () => {
                 ✅ <strong>Manual & Automation Testing:</strong> Designed and executed
                 <strong>functional, regression, smoke, and exploratory test cases</strong>
                 . Automated web and mobile test cases using{' '}
-                <strong>Playwright & Appium</strong>.
+                <strong>Playwright, Selenium & Nightwatch.js</strong>.
               </ProjectSectionText>
 
               <ProjectSectionText>
                 ✅ <strong>API & Performance Testing:</strong> Validated APIs using
                 <strong>Postman & Swagger</strong>. Performed{' '}
                 <strong>load & stress testing</strong>
-                with JMeter & k6.
+                with JMeter.
               </ProjectSectionText>
 
               <ProjectSectionText>
@@ -124,7 +124,7 @@ export const Slice = () => {
                 ✅ <strong>CI/CD Integration & Defect Management:</strong> Integrated
                 automated test execution in <strong>CircleCI</strong>. Tracked and managed
                 issues in
-                <strong>Jira & TestRail</strong>.
+                <strong>Jira Notion & Trello</strong>.
               </ProjectSectionText>
 
               <ProjectSectionText>

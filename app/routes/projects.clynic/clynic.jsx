@@ -155,7 +155,7 @@ export const SmartSparrow = () => {
               for web and mobile platforms.
               <br />
               Developed and optimized <strong>test automation frameworks</strong> using
-              Playwright & Appium to streamline testing processes.
+              Playwright, Selenium & Nighwatch.js to streamline testing processes.
               <br />
               <br />✅ <strong>API & Performance Testing</strong>
               <br />
@@ -166,8 +166,8 @@ export const SmartSparrow = () => {
               <br />
               <br />✅ <strong>Cross-Browser & Device Compatibility Testing</strong>
               <br />
-              Ensured seamless performance across multiple devices and screen sizes using
-              <strong>BrowserStack</strong>.<br />
+              Ensured seamless performance across multiple devices and screen sizes using{' '}
+              <strong>BrowserStack</strong> .<br />
               Conducted real-time testing on <strong>iOS & Android devices</strong> to
               identify platform-specific issues.
               <br />
@@ -177,8 +177,7 @@ export const SmartSparrow = () => {
               using CircleCI.
               <br />
               Managed and prioritized defects efficiently in{' '}
-              <strong>Jira & TestRail</strong>
-              to streamline resolution.
+              <strong>Jira, Trello & Notion</strong> to streamline resolution.
               <br />
               <br />✅ <strong>Security & Compliance Testing</strong>
               <br />
@@ -190,8 +189,8 @@ export const SmartSparrow = () => {
               <br />✅ <strong>Collaboration & Process Optimization</strong>
               <br />
               Worked closely with{' '}
-              <strong>developers, product managers, and stakeholders</strong>
-              to improve test processes.
+              <strong>developers, product managers, and stakeholders</strong> to improve
+              test processes.
               <br />
               Provided <strong>mentorship and guidance</strong> to junior QA engineers,
               enhancing overall team efficiency.
@@ -242,10 +241,10 @@ export const SmartSparrow = () => {
                 <strong>failed in low-network conditions</strong>, disrupting virtual
                 consultations.
                 <br />
-                🔹 <strong>Solution:</strong> Conducted **network throttling tests** using
-                Chrome DevTools and tested under simulated{' '}
-                <strong>low bandwidth conditions</strong>, optimizing the app’s
-                performance to handle weak signals efficiently.
+                🔹 <strong>Solution:</strong> Conducted{' '}
+                <strong>network throttling tests</strong> using Chrome DevTools and tested
+                under simulated <strong>low bandwidth conditions</strong>, optimizing the
+                app’s performance to handle weak signals efficiently.
                 <br />
                 <br />
                 🔹 <strong>Challenge 3:</strong> High latency in{' '}
@@ -322,7 +321,7 @@ export const SmartSparrow = () => {
                 <br />✔ Improved bug tracking & resolution speed by <strong>
                   30%
                 </strong>{' '}
-                using Jira & TestRail.
+                using Jira, Trello & Notion.
                 <br />
               </ProjectSectionText>
             </ProjectTextRow>
@@ -349,8 +348,9 @@ export const SmartSparrow = () => {
                   <ProjectSectionText>
                     🔹 <strong>Automation & Functional Testing</strong>
                     <br />
-                    🚀 <strong>Playwright, Appium, Selenium</strong> – Developed robust
-                    automation scripts for web & mobile apps, improving test efficiency.
+                    🚀 <strong>Playwright, Nightwatch.js, Selenium</strong> – Developed
+                    robust automation scripts for web & mobile apps, improving test
+                    efficiency.
                     <br />
                     <br />
                     🔹 <strong>API Testing & Validation</strong>
@@ -360,9 +360,8 @@ export const SmartSparrow = () => {
                     <br />
                     <br />
                     🔹 <strong>Performance & Load Testing</strong>
-                    <br />⚡ <strong>JMeter, k6</strong> – Simulated high-traffic
-                    conditions, optimized API response times, and enhanced system
-                    scalability.
+                    <br />⚡ <strong>JMeter</strong> – Simulated high-traffic conditions,
+                    optimized API response times, and enhanced system scalability.
                     <br />
                     <br />
                     🔹 <strong>CI/CD & Continuous Testing</strong>
@@ -373,15 +372,15 @@ export const SmartSparrow = () => {
                     <br />
                     🔹 <strong>Bug Tracking & Test Management</strong>
                     <br />
-                    🛠 <strong>Jira, TestRail</strong> – Streamlined defect tracking & test
-                    case management, improving collaboration between QA & development
-                    teams.
+                    🛠 <strong>Jira, Trello & Notion</strong> – Streamlined defect tracking
+                    & test case management, improving collaboration between QA &
+                    development teams.
                     <br />
                     <br />
                     🔹 <strong>Monitoring & Logging</strong>
                     <br />
-                    📊 <strong>New Relic, LogRocket</strong> – Enabled proactive
-                    monitoring, detecting real-time performance issues.
+                    📊 <strong>New Relic</strong> – Enabled proactive monitoring,
+                    detecting real-time performance issues.
                     <br />
                     <br />
                   </ProjectSectionText>

@@ -22,7 +22,7 @@ import sliceSidebarLayersLarge from '~/assets/software-testing-chart.jpg';
 import sliceSidebarLayersPlaceholder from '~/assets/software-testing-chart.jpg';
 import sliceSidebarLayers from '~/assets/software-testing-chart.jpg';
 import sliceSlidesLarge from '~/assets/Issues-tracling.jpg';
-import sliceSlidesPlaceholder from '~/assets/slice-slides-placeholder.jpg';
+import sliceSlidesPlaceholder from '~/assets/Issues-tracling.jpg';
 import sliceSlides from '~/assets/Issues-tracling.jpg';
 import { Footer } from '~/components/footer';
 import { Image } from '~/components/image';
