@@ -15,6 +15,10 @@ export default defineConfig({
   assetsInclude: ['**/*.glb', '**/*.hdr', '**/*.glsl'],
   build: {
     assetsInlineLimit: 1024,
+    commonjsOptions: {
+      // Prevents essential imports from being dropped
+      ignoreTryCatch: false,
+    },
   },
   server: {
     port: 7777,
